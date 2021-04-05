@@ -1,0 +1,48 @@
+body{
+    background-color: #ffb200;
+    margin: 2%;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "Roboto Thin", sans-serif;
+    color: #000000;
+}
+script{
+    text-align: center;
+}
+.calculator{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: "Roboto Thin", sans-serif;
+    font-size: 30px;
+}
+#grades{
+    margin: 10px;
+
+}
+.button {
+    background-color: #ffb200;
+    color: black;
+    border: none;
+    border: black solid 1px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.buttonF {
+    background-color: #77b412;
+    color: black;
+    border: none;
+    border: black solid 1px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
